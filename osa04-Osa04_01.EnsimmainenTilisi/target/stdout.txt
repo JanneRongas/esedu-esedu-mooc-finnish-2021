@@ -1,3 +1,0 @@
-EasyMock for class Tili
-Lopputilanne
-EasyMock for class Tili
